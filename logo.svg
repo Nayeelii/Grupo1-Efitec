@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg394"
+   inkscape:export-filename="/Users/constanzavega/Downloads/logo_negativo2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs388" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64745468"
+     inkscape:cx="155.18895"
+     inkscape:cy="362.63013"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1251"
+     inkscape:window-height="762"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata391">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g144"
+       transform="matrix(0.35277777,0,0,-0.35277777,8.9359026,22.141987)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 0,0 c -0.082,5.757 4.523,10.526 10.28,10.691 0.904,0 1.809,-0.083 2.631,-0.329 1.398,-0.329 2.714,-0.905 4.112,-1.316 9.046,-1.974 11.102,-0.822 13.076,6.579 0.657,1.809 1.069,3.701 1.891,5.51 2.22,5.345 8.47,7.894 13.816,5.592 5.345,-2.303 7.894,-8.47 5.592,-13.816 C 49.26,7.895 43.75,5.345 38.569,6.908 36.02,7.648 33.552,8.799 30.756,8.882 27.467,8.964 25.411,8.224 23.52,4.852 22.286,2.714 21.793,0.329 21.052,-1.974 19.161,-7.73 15.049,-10.855 9.786,-10.444 4.276,-10.033 0,-5.51 0,0"
+         style="fill:#f07522;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path146" />
+    </g>
+    <g
+       id="g148"
+       transform="matrix(0.35277777,0,0,-0.35277777,6.4989886,12.191147)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 0,0 c 1.645,0 2.878,-0.905 3.947,-2.138 1.069,-1.234 1.809,-3.125 3.208,-3.207 1.233,-0.083 17.927,10.937 24.917,15.378 2.796,1.727 5.674,1.316 7.237,-1.069 1.562,-2.385 0.822,-5.263 -2.056,-6.99 -9.293,-5.839 -18.668,-11.678 -27.96,-17.517 -2.467,-1.562 -5.181,-1.315 -6.99,0.658 -2.139,2.385 -4.277,4.77 -6.25,7.237 -1.234,1.48 -1.398,3.618 -0.412,5.263 C -3.536,-0.822 -1.809,0.164 0,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path150" />
+    </g>
+    <g
+       id="g152"
+       transform="matrix(0.35277777,0,0,-0.35277777,4.3382575e-4,8.7097968)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 0,0 c -0.082,5.099 3.947,9.293 9.046,9.375 0.822,0 1.563,-0.082 2.303,-0.247 1.233,-0.329 2.385,-0.822 3.618,-1.151 7.977,-2.303 9.951,-0.411 11.513,5.839 0.576,1.644 0.987,3.289 1.645,4.852 1.809,4.769 7.154,7.236 12.006,5.427 4.852,-1.809 7.237,-7.154 5.428,-12.006 C 43.997,7.319 38.898,4.687 34.046,6.168 31.743,6.826 29.605,7.812 27.22,7.895 24.342,7.977 22.286,7.319 20.806,4.359 19.901,2.385 19.161,0.411 18.668,-1.645 17.023,-6.743 13.405,-9.457 8.717,-9.128 3.783,-8.882 0,-4.852 0,0"
+         style="fill:#f07522;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path154" />
+    </g>
+  </g>
+</svg>
