@@ -8,10 +8,12 @@ body{
     background-color: #1f2b41;
     color: #ffffff;
     font-size: 16px;
-    font-family:  ' Roboto';
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .container{
     width: 90%;
     margin: auto;
 }
+
+
