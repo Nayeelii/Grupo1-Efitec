@@ -1,0 +1,24 @@
+
+
+:root{
+    --login-bg: #1f2b41 ;
+    --title-bg: #ffffff ;
+    --button-bg: #f07522 ;
+    --image-bg: #1f2b41 ;
+}
+
+body{
+    height: 100vh;
+   
+    background-image: linear-gradient(to top ,#ffffff 0%, #1f2b41 100% );
+}
+
+.login-container{
+    height: 43.75em;
+    width: 60em;
+    margin: 6em;
+    
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
