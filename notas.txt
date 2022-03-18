@@ -1,0 +1,16 @@
+Dos tipos de usuario:
+organizador y jefe de proyecto
+el organizador pued añadir a los colaboradores
+el jefe de proyecto es el que busca a los colaboradores y los añade a un proyecto
+tener la opcion de registro para ser organizador o jefe del proyecto
+
+formulario de registro
+1. Nombre completo
+2. Correo
+3. Escoger rol
+4. Contraseña
+5. Número de teléfono
+
+metodos de login
+solo ocupar correo y contraseña y no usar facebook
+pq se nos va a complicar elegir los roles
