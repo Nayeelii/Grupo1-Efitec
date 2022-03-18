@@ -11,4 +11,4 @@ Comenzando con el login , que es muy practico y nos permite acceder con la cuent
 y tambien podrás registrate si es que no cuentas con una cuenta
 además que el funcionamiento para encontrar a los colaboradores que busca es muy facíl
 te ahorrara tiempo y paciencia.
-  <img class="image-container" src="https://efitec.pe/_next/static/image/public/assets/shared/efitec-logo.9a463990f8c4cb9b967419d12acdc7b9.svg?auto=format&fit=max&w=128" alt="readme">
+  <img class="image-container" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHl3udKSCoK8g/company-logo_200_200/0/1629928627553?e=2147483647&v=beta&t=X919_cvsEc2BYx0ekzSCg1yWlbH-iQOJ1" alt="readme"> 
