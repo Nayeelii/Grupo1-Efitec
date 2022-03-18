@@ -1,12 +1,12 @@
 /*estilo de cartas pokemon*/
 .Pokemon-container{
-    background-color: blue;
+    background-color: #1f2b41;
     padding: 50px 30px;
 }
 
 .Pokemon-container h1{
     text-align: center;
-    color: papayawhip;
+    color: #ffffff;
     margin: 0 0 20px 0;
 }
 
@@ -23,7 +23,7 @@
     padding: 0 10px;
     margin-bottom: 15px;
     border-radius: 3px;
-    box-shadow: blue;
+    box-shadow: white;
 }
 
 img{
@@ -31,6 +31,12 @@ img{
 }
 
 .info{
+    color: #ffffff;
     padding: 10px
 }
+.boton{
+    background-color: #f07522;
+    color: #ffffff;
+}
+
 
